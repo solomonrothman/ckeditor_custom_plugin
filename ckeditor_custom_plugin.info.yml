@@ -1,0 +1,9 @@
+name: CKEditor Custom Plugin
+type: module
+description: This is a starting point for adding custom plugins to CKEditor,
+it includes a working example plugin which can be added to the CKEditor toolbar.
+core: 8.x
+package: CKEditor
+version: 1.0
+dependencies:
+  - ckeditor
